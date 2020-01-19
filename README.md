@@ -1,1 +1,1 @@
-# women-techmakers-curitiba
+# Women Techmakers Curitiba ©
