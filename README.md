@@ -1,1 +1,1 @@
-# Women Techmakers Curitiba ©
+![](./images/wtmcuritibahoriz.png)
