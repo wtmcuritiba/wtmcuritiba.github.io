@@ -112,10 +112,10 @@
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35)), url("../../images/bg.jpg");
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35)), url("../../images/bg.jpg");
-		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35)), url("../../images/bg.jpg");
-		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35)), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, rgba(66, 133, 244, 0.65) 40%, rgba(28, 233, 182, 0.65)), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, rgba(66, 133, 244, 0.65) 40%, rgba(28, 233, 182, 0.65)), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, rgba(66, 133, 244, 0.65) 40%, rgba(28, 233, 182, 0.65)), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), linear-gradient(45deg, rgba(66, 133, 244, 0.65) 40%, rgba(28, 233, 182, 0.65)), url("../../images/bg.jpg");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
@@ -133,10 +133,10 @@
 			opacity: 0;
 			z-index: 1;
 			background-color: #ffffff;
-			background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35));
-			background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35));
-			background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35));
-			background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(66, 133, 244, 0.5) 5%, rgba(0, 191, 165, 0.35));
+			background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, rgba(91, 193, 238, 0.65) 40%, rgba(100, 195, 166, 0.65));
+			background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, rgba(91, 193, 238, 0.65) 40%, rgba(100, 195, 166, 0.65));
+			background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, rgba(91, 193, 238, 0.65) 40%, rgba(100, 195, 166, 0.65));
+			background-image: url("images/overlay.png"), linear-gradient(45deg, rgba(91, 193, 238, 0.65) 40%, rgba(100, 195, 166, 0.65));
 			background-repeat: repeat,			no-repeat;
 			background-size: 100px 100px, cover;
 			background-position: top left,		center center;
@@ -153,13 +153,12 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #414f57;
+		color: #424242;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 2;
 		letter-spacing: 0.2em;
-		text-transform: uppercase;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -184,8 +183,9 @@
 		-webkit-transition: color 0.2s ease, border-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-color 0.2s ease;
 		transition: color 0.2s ease, border-color 0.2s ease;
-		color: inherit;
+		color: #00bfa5;
 		text-decoration: none;
+		font-weight: normal;
 	}
 
 		a:before {
@@ -196,11 +196,11 @@
 		}
 
 		a:hover {
-			color: #34C1A9;
+			color: #c5c5c5;
 		}
 
 	strong, b {
-		color: #313f47;
+		color: #424242;
 	}
 
 	em, i {
@@ -214,7 +214,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #313f47;
+		color: #424242;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
 	}
@@ -228,10 +228,13 @@
 		font-size: 1.85em;
 		letter-spacing: 0.22em;
 		margin: 0 0 0.525em 0;
+		font-weight: bold;
 	}
 
 	h2 {
 		font-size: 1.25em;
+		font-weight: bold;
+		text-transform: uppercase;
 	}
 
 	h3 {
@@ -272,7 +275,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #c8cccf;
+		border-bottom: solid 1px #c5c5c5;
 		margin: 3em 0;
 	}
 
@@ -351,7 +354,7 @@
 		}
 
 	label {
-		color: #313f47;
+		color: #424242;
 		display: block;
 		font-size: 0.9em;
 		margin: 0 0 0.75em 0;
@@ -368,7 +371,7 @@
 		-ms-appearance: none;
 		appearance: none;
 		border-radius: 4px;
-		border: solid 1px #c8cccf;
+		border: solid 1px #c5c5c5;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -406,7 +409,7 @@
 	}
 
 		select option {
-			color: #313f47;
+			color: #424242;
 			background: #ffffff;
 		}
 
@@ -446,7 +449,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #414f57;
+			color: #424242;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -473,7 +476,7 @@
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
 				border-radius: 4px;
-				border: solid 1px #c8cccf;
+				border: solid 1px #c5c5c5;
 				content: '';
 				display: inline-block;
 				font-size: 0.8em;
@@ -590,7 +593,7 @@
 		}
 
 			ul.alt li {
-				border-top: solid 1px #c8cccf;
+				border-top: solid 1px #c5c5c5;
 				padding: 0.5em 0;
 			}
 
@@ -739,8 +742,9 @@
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 0;
+		padding-left: 10%;
 		margin-top: -0.675em;
+		max-width: 90%;
 	}
 
 		ul.icons li {
@@ -755,7 +759,7 @@
 				width: 3em;
 				height: 3em;
 				border-radius: 100%;
-				border: solid 1px #c8cccf;
+				border: solid 1px #c5c5c5;
 				line-height: 3em;
 				overflow: hidden;
 				text-align: center;
@@ -777,12 +781,13 @@
 				}
 
 				ul.icons li a:before {
-					color: #ffffff;
-					text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
+					color: #c5c5c5;
+					text-shadow: 1.25px 0px 0px #ffffff, -1.25px 0px 0px #ffffff, 0px 1.25px 0px #ffffff, 0px -1.25px 0px #ffffff;
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1.25px 0px 0px #34C1A9, -1.25px 0px 0px #34C1A9, 0px 1.25px 0px #34C1A9, 0px -1.25px 0px #34C1A9;
+					color: #4285f4;
+					text-shadow: 1.25px 0px 0px #ffffff, -1.25px 0px 0px #ffffff, 0px 1.25px 0px #ffffff, 0px -1.25px 0px #ffffff;
 				}
 
 				ul.icons li a:before {
@@ -798,7 +803,7 @@
 				}
 
 				ul.icons li a:hover {
-					border-color: #34C1A9;
+					border-color: #4285f4;
 				}
 
 		@media screen and (max-width: 480px) {
@@ -831,7 +836,7 @@
 		background-color: transparent;
 		border-radius: 4px;
 		border: solid 1px #c8cccf;
-		color: #414f57 !important;
+		color: #424242 !important;
 		cursor: pointer;
 		text-align: center;
 		text-decoration: none;
@@ -919,22 +924,24 @@
 		background: #ffffff;
 		border-radius: 4px;
 		cursor: default;
-		max-width: 100%;
+		max-width: 90%;
 		opacity: 0.95;
 		position: relative;
 		text-align: center;
-		width: 27em;
+		width: 30em;
 	}
 
 		#main .avatar {
-			position: relative;
+			position: center;
 			display: block;
-			margin-bottom: 1.5em;
+			margin-bottom: 1em;
 		}
 
 			#main .avatar img {
 				display: block;
 				margin: 0 auto;
+				max-width: 100%;
+
 				/*border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;*/
 			}
