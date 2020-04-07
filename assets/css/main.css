@@ -185,7 +185,6 @@
 		transition: color 0.2s ease, border-color 0.2s ease;
 		color: #00bfa5;
 		text-decoration: none;
-		font-weight: normal;
 	}
 
 		a:before {
@@ -196,7 +195,9 @@
 		}
 
 		a:hover {
-			color: #c5c5c5;
+			color: #ffffff;
+			background-color: #00bfa5;
+			cursor: default;
 		}
 
 	strong, b {
@@ -787,6 +788,7 @@
 
 				ul.icons li a:hover:before {
 					color: #4285f4;
+					background-color: transparent;
 					text-shadow: 1.25px 0px 0px #ffffff, -1.25px 0px 0px #ffffff, 0px 1.25px 0px #ffffff, 0px -1.25px 0px #ffffff;
 				}
 
@@ -804,6 +806,7 @@
 
 				ul.icons li a:hover {
 					border-color: #4285f4;
+					background-color: transparent;
 				}
 
 		@media screen and (max-width: 480px) {
