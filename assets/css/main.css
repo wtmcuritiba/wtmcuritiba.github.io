@@ -1055,3 +1055,8 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+		#main .texto {
+			font-size: 15px;
+			padding: 0 0 20px 0;
+		}
