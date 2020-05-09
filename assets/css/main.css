@@ -1069,4 +1069,5 @@
 		#main .texto {
 			font-size: 15px;
 			padding: 0 0 20px 0;
+			text-transform: uppercase;
 		}
