@@ -1071,3 +1071,7 @@
 			padding: 0 0 20px 0;
 			text-transform: uppercase;
 		}
+
+		.next-event a {
+			cursor: pointer;
+		}
