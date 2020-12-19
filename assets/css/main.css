@@ -150,6 +150,11 @@
 			opacity: 1;
 		}
 
+		::selection { 
+			background: #5391F4;
+			color: #fff; 
+		}
+
 /* Type */
 
 	body, input, select, textarea {
@@ -197,7 +202,7 @@
 		a:hover {
 			color: #ffffff;
 			background-color: #00bfa5;
-			cursor: default;
+			cursor: pointer;
 		}
 
 	strong, b {
