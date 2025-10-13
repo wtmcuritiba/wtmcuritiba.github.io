@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conectividade on Women Teckmakers Curitiba</title><link>https://wtmcuritiba.github.io/tags/conectividade/</link><description>Recent content in Conectividade on Women Teckmakers Curitiba</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 23 Jan 2020 18:45:00 +0000</lastBuildDate><atom:link href="https://wtmcuritiba.github.io/tags/conectividade/index.xml" rel="self" type="application/rss+xml"/><item><title>1º Encontro Women Techmakers 2020</title><link>https://wtmcuritiba.github.io/eventos/1-encontro-2020/</link><pubDate>Thu, 23 Jan 2020 18:45:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/1-encontro-2020/</guid><description>&lt;h4 id="chegamos-em-2020-e-com-ele-viemos-lançar-nosso-primeiro-encontro-do-ano-yey-">Chegamos em 2020 e com ele viemos lançar nosso primeiro encontro do ano, yey! 🎉🎉&lt;/h4>
-&lt;p>📅 Nosso 1º evento do ano vai acontecer em 23/01, às 18:45.&lt;br>
-📍 Vai ser na Juno, que fica na Rua Mariano Torres, 729, 4º andar.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conectividade on Women Teckmakers Curitiba</title>
+    <link>http://localhost:1313/tags/conectividade/</link>
+    <description>Recent content in Conectividade on Women Teckmakers Curitiba</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 23 Jan 2020 18:45:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/conectividade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1º Encontro Women Techmakers 2020</title>
+      <link>http://localhost:1313/eventos/1-encontro-2020/</link>
+      <pubDate>Thu, 23 Jan 2020 18:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/1-encontro-2020/</guid>
+      <description>&lt;h4 id=&#34;chegamos-em-2020-e-com-ele-viemos-lançar-nosso-primeiro-encontro-do-ano-yey-&#34;&gt;Chegamos em 2020 e com ele viemos lançar nosso primeiro encontro do ano, yey! 🎉🎉&lt;/h4&gt;&#xA;&lt;p&gt;📅 Nosso 1º evento do ano vai acontecer em 23/01, às 18:45.&lt;br&gt;&#xA;📍 Vai ser na Juno, que fica na Rua Mariano Torres, 729, 4º andar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

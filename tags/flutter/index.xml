@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flutter on Women Teckmakers Curitiba</title><link>https://wtmcuritiba.github.io/tags/flutter/</link><description>Recent content in Flutter on Women Teckmakers Curitiba</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 06 Feb 2020 18:45:00 +0000</lastBuildDate><atom:link href="https://wtmcuritiba.github.io/tags/flutter/index.xml" rel="self" type="application/rss+xml"/><item><title>2º Encontro Women Techmakers 2020</title><link>https://wtmcuritiba.github.io/eventos/2-encontro-2020/</link><pubDate>Thu, 06 Feb 2020 18:45:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/2-encontro-2020/</guid><description>&lt;h4 id="nosso-2º-encontro-de-2020-tá-no-ar-">Nosso 2º encontro de 2020 tá no ar! 🚀&lt;/h4>
-&lt;p>📅 Vai acontecer em 06/02, às 18:45.&lt;br>
-📍 Vai ser na Contabilizei, que fica na Rua Nunes Machado, 68, 16º andar.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flutter on Women Teckmakers Curitiba</title>
+    <link>http://localhost:1313/tags/flutter/</link>
+    <description>Recent content in Flutter on Women Teckmakers Curitiba</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 06 Feb 2020 18:45:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2º Encontro Women Techmakers 2020</title>
+      <link>http://localhost:1313/eventos/2-encontro-2020/</link>
+      <pubDate>Thu, 06 Feb 2020 18:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/2-encontro-2020/</guid>
+      <description>&lt;h4 id=&#34;nosso-2º-encontro-de-2020-tá-no-ar-&#34;&gt;Nosso 2º encontro de 2020 tá no ar! 🚀&lt;/h4&gt;&#xA;&lt;p&gt;📅 Vai acontecer em 06/02, às 18:45.&lt;br&gt;&#xA;📍 Vai ser na Contabilizei, que fica na Rua Nunes Machado, 68, 16º andar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

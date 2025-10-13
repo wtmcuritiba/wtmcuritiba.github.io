@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Netwoking on Women Teckmakers Curitiba</title><link>https://wtmcuritiba.github.io/tags/netwoking/</link><description>Recent content in Netwoking on Women Teckmakers Curitiba</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 04 Jul 2019 19:00:00 +0000</lastBuildDate><atom:link href="https://wtmcuritiba.github.io/tags/netwoking/index.xml" rel="self" type="application/rss+xml"/><item><title>1º Encontro Women Techmakers + Women Who Go</title><link>https://wtmcuritiba.github.io/eventos/1-encontro-2019/</link><pubDate>Thu, 04 Jul 2019 19:00:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/1-encontro-2019/</guid><description>&lt;p>Women Techmakers e Women Who Go convidam para o 1º encontro de 2019 em Curitiba!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netwoking on Women Teckmakers Curitiba</title>
+    <link>http://localhost:1313/tags/netwoking/</link>
+    <description>Recent content in Netwoking on Women Teckmakers Curitiba</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 04 Jul 2019 19:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/netwoking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1º Encontro Women Techmakers &#43; Women Who Go</title>
+      <link>http://localhost:1313/eventos/1-encontro-2019/</link>
+      <pubDate>Thu, 04 Jul 2019 19:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/1-encontro-2019/</guid>
+      <description>&lt;p&gt;Women Techmakers e Women Who Go convidam para o 1º encontro de 2019 em Curitiba!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

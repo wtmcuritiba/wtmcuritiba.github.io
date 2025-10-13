@@ -1,8 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dados on Women Teckmakers Curitiba</title><link>https://wtmcuritiba.github.io/tags/dados/</link><description>Recent content in Dados on Women Teckmakers Curitiba</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Sat, 22 Mar 2025 09:00:00 +0000</lastBuildDate><atom:link href="https://wtmcuritiba.github.io/tags/dados/index.xml" rel="self" type="application/rss+xml"/><item><title>Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher</title><link>https://wtmcuritiba.github.io/eventos/1-encontro-2025-iwd/</link><pubDate>Sat, 22 Mar 2025 09:00:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/1-encontro-2025-iwd/</guid><description>&lt;p>Estamos preparando um evento incrível para comemorar o Dia Internacional da Mulher!&lt;br>
-Deixe sua vaga já garantida que logo traremos novidades!&lt;/p></description></item><item><title>Encontro #6 WTM - #1º Meetup 2024</title><link>https://wtmcuritiba.github.io/eventos/2-encontro-2024/</link><pubDate>Wed, 11 Sep 2024 19:00:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/2-encontro-2024/</guid><description>&lt;p>Estamos preparando um evento incrível pra Setembro!&lt;br>
-Deixe sua vaga já garantida e aproveite pra colocar no seu calendário.&lt;/p></description></item><item><title>[ONLINE] Courage to Create - Dia Internacional da Mulher IWD</title><link>https://wtmcuritiba.github.io/eventos/1-encontro-2021-iwd/</link><pubDate>Tue, 23 Mar 2021 19:30:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/1-encontro-2021-iwd/</guid><description>&lt;p>Chegou a hora do nosso tão esperado encontro especial de Dia Internacional da Mulher.
-O tema esse ano é #CourageToCreate&lt;/p></description></item><item><title>6º Encontro Women Techmakers</title><link>https://wtmcuritiba.github.io/eventos/6-encontro-2019/</link><pubDate>Thu, 05 Dec 2019 18:45:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/6-encontro-2019/</guid><description>&lt;h4 id="último-encontro-do-ano-">Último encontro do ano! 💜💚&lt;/h4>
-&lt;p>📅 Nosso 6º e último evento do ano vai acontecer em 05/12, às 18:45.&lt;br>
-Vai ser na arena da Rentcars.com, que fica no endereço Rua Nunes Machado, 68 - 13º andar.&lt;/p></description></item><item><title>5º Encontro Women Techmakers</title><link>https://wtmcuritiba.github.io/eventos/5-encontro-2019/</link><pubDate>Thu, 07 Nov 2019 18:45:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/5-encontro-2019/</guid><description>&lt;h4 id="women-techmakers-convida-para-o-5º-encontro-de-2019-em-curitiba">Women Techmakers convida para o 5º encontro de 2019 em Curitiba!&lt;/h4>
-&lt;p>📅 O evento será em 07/11, às 18:45, na CINQ Technologies (Av. Sete de Setembro, 2451 - 4º andar).&lt;/p></description></item><item><title>4º Encontro Women Techmakers</title><link>https://wtmcuritiba.github.io/eventos/4-encontro-2019/</link><pubDate>Thu, 03 Oct 2019 19:00:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/4-encontro-2019/</guid><description>&lt;h4 id="-women-techmakers-convida-para-o-4º-encontro-de-2019-em-curitiba-">✨ Women Techmakers convida para o 4º encontro de 2019 em Curitiba! ✨&lt;/h4>
-&lt;p>O evento será em 03/10, às 19:00, na Pipefy (Av. João Gualberto, 1740 - 4º andar).&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dados on Women Teckmakers Curitiba</title>
+    <link>http://localhost:1313/tags/dados/</link>
+    <description>Recent content in Dados on Women Teckmakers Curitiba</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 22 Mar 2025 09:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dados/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encontro #7 WTM - IWD&#39;25 / Dia Internacional da Mulher</title>
+      <link>http://localhost:1313/eventos/1-encontro-2025-iwd/</link>
+      <pubDate>Sat, 22 Mar 2025 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/1-encontro-2025-iwd/</guid>
+      <description>&lt;p&gt;Estamos preparando um evento incrível para comemorar o Dia Internacional da Mulher!&lt;br&gt;&#xA;Deixe sua vaga já garantida que logo traremos novidades!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Encontro #6 WTM - #1º Meetup 2024</title>
+      <link>http://localhost:1313/eventos/2-encontro-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 19:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/2-encontro-2024/</guid>
+      <description>&lt;p&gt;Estamos preparando um evento incrível pra Setembro!&lt;br&gt;&#xA;Deixe sua vaga já garantida e aproveite pra colocar no seu calendário.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[ONLINE] Courage to Create - Dia Internacional da Mulher IWD</title>
+      <link>http://localhost:1313/eventos/1-encontro-2021-iwd/</link>
+      <pubDate>Tue, 23 Mar 2021 19:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/1-encontro-2021-iwd/</guid>
+      <description>&lt;p&gt;Chegou a hora do nosso tão esperado encontro especial de Dia Internacional da Mulher.&#xA;O tema esse ano é #CourageToCreate&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>6º Encontro Women Techmakers</title>
+      <link>http://localhost:1313/eventos/6-encontro-2019/</link>
+      <pubDate>Thu, 05 Dec 2019 18:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/6-encontro-2019/</guid>
+      <description>&lt;h4 id=&#34;último-encontro-do-ano-&#34;&gt;Último encontro do ano! 💜💚&lt;/h4&gt;&#xA;&lt;p&gt;📅 Nosso 6º e último evento do ano vai acontecer em 05/12, às 18:45.&lt;br&gt;&#xA;Vai ser na arena da Rentcars.com, que fica no endereço Rua Nunes Machado, 68 - 13º andar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>5º Encontro Women Techmakers</title>
+      <link>http://localhost:1313/eventos/5-encontro-2019/</link>
+      <pubDate>Thu, 07 Nov 2019 18:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/5-encontro-2019/</guid>
+      <description>&lt;h4 id=&#34;women-techmakers-convida-para-o-5º-encontro-de-2019-em-curitiba&#34;&gt;Women Techmakers convida para o 5º encontro de 2019 em Curitiba!&lt;/h4&gt;&#xA;&lt;p&gt;📅 O evento será em 07/11, às 18:45, na CINQ Technologies (Av. Sete de Setembro, 2451 - 4º andar).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4º Encontro Women Techmakers</title>
+      <link>http://localhost:1313/eventos/4-encontro-2019/</link>
+      <pubDate>Thu, 03 Oct 2019 19:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/4-encontro-2019/</guid>
+      <description>&lt;h4 id=&#34;-women-techmakers-convida-para-o-4º-encontro-de-2019-em-curitiba-&#34;&gt;✨ Women Techmakers convida para o 4º encontro de 2019 em Curitiba! ✨&lt;/h4&gt;&#xA;&lt;p&gt;O evento será em 03/10, às 19:00, na Pipefy (Av. João Gualberto, 1740 - 4º andar).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

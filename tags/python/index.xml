@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Women Teckmakers Curitiba</title><link>https://wtmcuritiba.github.io/tags/python/</link><description>Recent content in Python on Women Teckmakers Curitiba</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 27 May 2020 19:30:00 +0000</lastBuildDate><atom:link href="https://wtmcuritiba.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>[ONLINE] 3˚ encontro - Clube de Python - WTM</title><link>https://wtmcuritiba.github.io/eventos/3-clube-python-2020/</link><pubDate>Wed, 27 May 2020 19:30:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/3-clube-python-2020/</guid><description>&lt;p>Chegou a hora de um novo encontro do Clube de Python 🐍🐍🐍&lt;br>
-Desta vez teremos conteúdos apresentados por nossas participantes. 👯‍♀️&lt;/p></description></item><item><title>[ONLINE] 2˚ encontro - Clube de Python - WTM</title><link>https://wtmcuritiba.github.io/eventos/2-clube-python-2020/</link><pubDate>Thu, 26 Mar 2020 19:00:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/2-clube-python-2020/</guid><description>&lt;p>Todas animadas para botar a mão na massa?&lt;/p>
-&lt;p>Nosso segundo encontro teremos atividades, então prepara pra levar o computador. Caso não tenha, por favor, entre em contato conosco.&lt;/p></description></item><item><title>Clube de Python - WTM</title><link>https://wtmcuritiba.github.io/eventos/1-clube-python-2020/</link><pubDate>Tue, 18 Feb 2020 19:00:00 +0000</pubDate><guid>https://wtmcuritiba.github.io/eventos/1-clube-python-2020/</guid><description>&lt;p>Está acontecendo!!!
-Vamos finalmente nos reunir pra falar desta linguagem tão Zen 🧘🏽‍♀️, pra não dizer tão amada 🐍🐍🐍.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Women Teckmakers Curitiba</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Women Teckmakers Curitiba</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 27 May 2020 19:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ONLINE] 3˚ encontro - Clube de Python - WTM</title>
+      <link>http://localhost:1313/eventos/3-clube-python-2020/</link>
+      <pubDate>Wed, 27 May 2020 19:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/3-clube-python-2020/</guid>
+      <description>&lt;p&gt;Chegou a hora de um novo encontro do Clube de Python 🐍🐍🐍&lt;br&gt;&#xA;Desta vez teremos conteúdos apresentados por nossas participantes. 👯‍♀️&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[ONLINE] 2˚ encontro - Clube de Python - WTM</title>
+      <link>http://localhost:1313/eventos/2-clube-python-2020/</link>
+      <pubDate>Thu, 26 Mar 2020 19:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/2-clube-python-2020/</guid>
+      <description>&lt;p&gt;Todas animadas para botar a mão na massa?&lt;/p&gt;&#xA;&lt;p&gt;Nosso segundo encontro teremos atividades, então prepara pra levar o computador. Caso não tenha, por favor, entre em contato conosco.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clube de Python - WTM</title>
+      <link>http://localhost:1313/eventos/1-clube-python-2020/</link>
+      <pubDate>Tue, 18 Feb 2020 19:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eventos/1-clube-python-2020/</guid>
+      <description>&lt;p&gt;Está acontecendo!!!&#xA;Vamos finalmente nos reunir pra falar desta linguagem tão Zen 🧘🏽‍♀️, pra não dizer tão amada 🐍🐍🐍.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
