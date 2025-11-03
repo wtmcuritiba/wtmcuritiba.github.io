@@ -1,0 +1,6 @@
+################ Portuguese language ##################
+[pt]
+languageName = "PT"
+languageCode = "pt-br"
+contentDir = "content/portuguese"
+weight = 1
