@@ -22,7 +22,7 @@ features:
     button:
       enable: true
       label: "Ver todos os eventos"
-      link: "eventos"
+      link: "https://wtmcuritiba.github.io/eventos/"
 
   - title: "Como se tornar uma palestrante?"
     image: "/images/palestrante 2.jpeg"
@@ -40,7 +40,7 @@ features:
 
   - title: "Conheça mais sobre o WTM"
     image: "/images/WTM_Logo_Stacked_Color.png"
-    content: "O programa Women Techmakers do Google oferece visibilidade, comunidade e recursos para mulheres na tecnologia. A participação proporciona empoderamento na carreira, oferecendo acesso a recursos e eventos selecionados, além de informações e ferramentas do Google, de nossos parceiros e do ecossistema tecnológico global."
+    content: "O Women Techmakers é o programa e marca global do Technovation voltado para as mulheres na tecnologia. Atualmente, o programa foca em empoderar as mulheres na tecnologia através do aumento da visibilidade, comunidade e recursos destinados à elas."
  #   bulletpoints:
  #     - "Instantly load static sites for better user experience and SEO."
  #     - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
@@ -49,5 +49,5 @@ features:
     button:
       enable: true
       label: "Saber mais sobre o programa"
-      link: "https://developers.google.com/womentechmakers?hl=pt-br"
+      link: "https://www.technovation.org/women-techmakers/"
 ---
